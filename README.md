@@ -1,6 +1,6 @@
-# burger
 
-
+# Burger - Node Express Handlebars
+Check out the app running on heroku here: https://enigmatic-waters-23525.herokuapp.com/
 
 
 ### Overview
